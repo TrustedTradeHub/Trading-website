@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trusted-trade-hub.pages.dev/sitemap.xml
